@@ -1,0 +1,52 @@
+canonical_identifier: bkk:krp/KR2k0100/v1
+canonical_location: https://kanripo.org/bkk/KR2k0100/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 營平二州地名記
+  date: '2015-08-24 22:45:30.706898'
+  source:
+    repository: kanripo
+    path: KR2k0100
+  base_edition: WYG
+  edition:
+    short: bkk
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+editions:
+- short: WYG
+  label: 【四庫全書・文淵閣】
+assets:
+  parts:
+  - {seq: 0, filename: KR2k0100_000.yaml, hash: 'sha256:0065ab0d2dfeb6c337e3f3b95e7023dd8829cde7288a54b9128f54b7b5eb8858'}
+  - {seq: 1, filename: KR2k0100_001.yaml, hash: 'sha256:f1126eb249449e37f00bce10654a8c4f1340dd879b2dfcc6500879324358bddf'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR2k0100_000.markers.yaml, hash: 'sha256:ad9dfbdca1e5e55e399ad3f1bccf85e82baa2ebbdfa9df562f333fa0af4b37c6'}
+  - {seq: 1, role: markers, filename: assets/KR2k0100_001.markers.yaml, hash: 'sha256:b315a4edcaa204b26c2436eb7ad41e0a5cae4e3ad41d55d0aad554df8b564624'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR2k0100_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 345
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR2k0100_WYG_001-1a
+    span:
+    - body
+    - 0
+    - 14798
+  label: 營平二州地名記
+  type: section
+  level: 1
+hash: sha256:1e92102d460686e551f642fcc001a00f8a9d075ced324b44ae846310f12bde8f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
