@@ -20,11 +20,11 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR2k0100_000.yaml, hash: 'sha256:0065ab0d2dfeb6c337e3f3b95e7023dd8829cde7288a54b9128f54b7b5eb8858'}
-  - {seq: 1, filename: KR2k0100_001.yaml, hash: 'sha256:f1126eb249449e37f00bce10654a8c4f1340dd879b2dfcc6500879324358bddf'}
+  - {seq: 0, filename: KR2k0100_000.yaml, hash: 'sha256:0e3656634817c066db7eff08eb6831b136968ed5e51d7e74773dc7dbda3f92cd'}
+  - {seq: 1, filename: KR2k0100_001.yaml, hash: 'sha256:018c8a6f61cdd5e8220f8ddaecc74cd7c389940dbe993a06c014991504fc7a35'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0100_000.markers.yaml, hash: 'sha256:ad9dfbdca1e5e55e399ad3f1bccf85e82baa2ebbdfa9df562f333fa0af4b37c6'}
-  - {seq: 1, role: markers, filename: assets/KR2k0100_001.markers.yaml, hash: 'sha256:b315a4edcaa204b26c2436eb7ad41e0a5cae4e3ad41d55d0aad554df8b564624'}
+  - {seq: 0, role: markers, filename: assets/KR2k0100_000.markers.yaml, hash: 'sha256:4cda29f43d029f0023d9b87b6e411b9319f06580a8f0ac2cc36cf9bbedee4dbc'}
+  - {seq: 1, role: markers, filename: assets/KR2k0100_001.markers.yaml, hash: 'sha256:ebe89e204bc4df56279d1bb98d89f72a7bdb80a292f2d85fc97af6f4b4c0c83a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,4 @@ table_of_contents:
   label: 營平二州地名記
   type: section
   level: 1
-hash: sha256:1e92102d460686e551f642fcc001a00f8a9d075ced324b44ae846310f12bde8f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:03634cf64a7b72d7cd462b54636830e95b3135fc93777f3b99862f735277544b
