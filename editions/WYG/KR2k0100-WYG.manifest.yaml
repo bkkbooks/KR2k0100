@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR2k0100_000-WYG.yaml, hash: 'sha256:2a8ce7eeb0598618ea7642da319c64e8a3bea7f43d75c1f546729478265bf07c'}
   - {seq: 1, filename: KR2k0100_001-WYG.yaml, hash: 'sha256:9865b293aa18250f4936c1c62a9c585f539d0ddc6f6bac740c96db261f477936'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0100_000-WYG.markers.yaml, hash: 'sha256:31aa360fa18a2ac0305c457ef74e7cba2551490d09225f8f0a2ae1d52c8bd574'}
-  - {seq: 1, role: markers, filename: assets/KR2k0100_001-WYG.markers.yaml, hash: 'sha256:3b6ab5c1983e7884810e0002e4e4f69bf47e8216df6b795b1e26fccc815a0e07'}
+  - {seq: 0, role: markers, filename: assets/KR2k0100_000-WYG.markers.yaml, hash: 'sha256:4b180dd08a622ba89988c42246a48c5407f1b96af40417684db03ecee82e502a'}
+  - {seq: 1, role: markers, filename: assets/KR2k0100_001-WYG.markers.yaml, hash: 'sha256:37ecd6be5cd934939ce346b9f0127b98ca178715345cea8c978e5eb6114f1ac8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 營平二州地名記
   type: section
   level: 1
-hash: sha256:1c1d4104f0ae93b01d9151f08d0ec6e8043e059b819879461b5df3e0e37d91cf
+hash: sha256:88097d945f901f131367b8894756c128f431c7457f64ce0d64ddad14d0390b2d

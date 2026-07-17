@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR2k0100_000.yaml, hash: 'sha256:3a12b8832b3d5d7f2d2435284b13532c0b7c3cfcfd7e50d1d102dde34690cfdd'}
   - {seq: 1, filename: KR2k0100_001.yaml, hash: 'sha256:049b2ca0a9a2e876b676cae9dd6f36c81fcf292ffcae3ed460b048f004872202'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR2k0100_000.markers.yaml, hash: 'sha256:28c1304bb420ccd6640160d529400687d0480f1ee2b0f15c728ca904e86e65f1'}
-  - {seq: 1, role: markers, filename: assets/KR2k0100_001.markers.yaml, hash: 'sha256:e1fc872fd84757986406962f54e96beb310e6df760bbea71d0a55ed664970e11'}
+  - {seq: 0, role: markers, filename: assets/KR2k0100_000.markers.yaml, hash: 'sha256:b327ba2607e8ffcf2898bfb04a768b9b70eb8b65623fc3bfc594eccc74d1b54f'}
+  - {seq: 1, role: markers, filename: assets/KR2k0100_001.markers.yaml, hash: 'sha256:15d800c7fcd973f5460cfba2e570221224bfeb583fefbdcbfea738ff500d88ca'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 營平二州地名記
   type: section
   level: 1
-hash: sha256:0b9484fa98fec7dc4e1cee8a1a8a676de884ef5eb32d4390cbff93237eeb97f9
+hash: sha256:20a03d7f81211971c22d60323131294494d690ad46bfbec688e8d99a340dc703
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
